@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       Mihau
 // @namespace  http://wykop.pl/
-// @version    1.1
+// @version    1.2
 // @description  Bug i wladca - Michaił Biaukov
 // @match      http://www.wykop.pl/*
 // @copyright  2017, @Grizwold
