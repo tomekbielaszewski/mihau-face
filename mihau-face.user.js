@@ -18,11 +18,11 @@
         "6% {transform: translate(0px);}" +
         "}" +
         " " +
-        "#nav .nav li a {" +
+        "#nav > div > ul.clearfix.mainnav > li:nth-child(2) > a {" +
         "background-color: " + (isNightMode() ? "#3c3c3c" : "#4383af;") +
         "}" +
         " " +
-        "#nav .nav li.active a {" +
+        "#nav > div > ul.clearfix.mainnav > li.active > a {" +
         "background-color: " + (isNightMode() ? "#2c2c2c" : "#2e6e99;") +
         "}" +
         " " +
