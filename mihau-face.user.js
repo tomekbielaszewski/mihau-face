@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name       Mihau
-// @namespace  http://wykop.pl/
-// @version    1.4
+// @namespace  https://wykop.pl/
+// @version    1.5
 // @description  Bug i wladca - Michaił Biaukov
-// @match      http://www.wykop.pl/*
+// @match      https://www.wykop.pl/*
 // @copyright  2017, @Grizwold
 // @run-at document-body
 // @updateURL   https://github.com/tomekbielaszewski/mihau-face/raw/master/mihau-face.user.js
